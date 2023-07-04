@@ -65,10 +65,6 @@ jobs:
           CONFIG_TARGET_x86=y
           CONFIG_TARGET_x86_64=y
           CONFIG_TARGET_x86_64_DEVICE_generic=y
-          CONFIG_ARIA2_BITTORRENT=y
-          CONFIG_ARIA2_NOXML=y
-          CONFIG_ARIA2_OPENSSL=y
-          CONFIG_ARIA2_WEBSOCKET=y
           # CONFIG_FEED_luci is not set
           # CONFIG_FEED_packages is not set
           # CONFIG_FEED_routing is not set
